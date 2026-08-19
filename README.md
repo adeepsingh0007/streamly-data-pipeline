@@ -20,7 +20,7 @@ The project demonstrates core data engineering concepts including data modeling,
 ## Project Structure
 
 ```text
-streamly/
+streamly-etl-pipeline/
 ├── data/                 # Input song and log datasets
 ├── screenshots/          # Images used in the README, including the ERD
 ├── src/
@@ -74,7 +74,7 @@ The project uses a **star schema** optimized for analytical queries.
 
 ```bash
 git clone <repository-url>
-cd streamly
+cd streamly-etl-pipeline
 ```
 
 ### 2. Create a virtual environment
