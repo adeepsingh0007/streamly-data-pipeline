@@ -19,7 +19,7 @@ The project demonstrates core data engineering concepts including data modeling,
 - **Testing:** pytest
 
 ## Dataset
-The dataset used for this project is a subset of the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/).
+The dataset used for this project is a subset of the [Million Song Dataset](http://millionsongdataset.com/).
 
 ## Project Structure
 
