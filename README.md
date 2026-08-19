@@ -16,6 +16,7 @@ The project demonstrates core data engineering concepts including data modeling,
 - **Database Driver:** psycopg2
 - **Configuration Management:** python-dotenv
 - **Logging:** Python logging module
+- **Testing:** pytest
 
 ## Project Structure
 
@@ -24,6 +25,7 @@ streamly-etl-pipeline/
 ├── data/                 # Input song and log datasets
 ├── screenshots/          # Images used in the README, including the ERD
 ├── src/
+│   ├── __init__.py
 │   ├── config.py
 │   ├── create_tables.py
 │   ├── etl.py
@@ -105,7 +107,7 @@ pip install -r requirements.txt
 
 ### 4. Configure environment variables
 
-Create a `.env` file in the `src/` directory using `.env.example` as a template.
+Create a `.env` file in the project root using `.env.example` as a template.
 
 ### 5. Initialize the database
 
