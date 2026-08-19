@@ -1,0 +1,13 @@
+# Environment Variables
+.env
+
+# Jupyter Notebooks
+etl.ipynb
+test.ipynb
+Untitled.ipynb
+
+#Misc
+anaconda_projects/
+
+#Logs
+Logs/streamly.log
