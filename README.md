@@ -131,7 +131,7 @@ The project includes structured logging and exception handling to improve reliab
 
 ### Features
 
-- Application logs are written to `logs/etl.log`.
+- Application logs are written to `Logs/streamly.log`.
 - Environment variables are used to protect database credentials.
 - Exceptions are logged with stack traces using Python's `logging` module.
 - Failed database transactions are rolled back to maintain data consistency.
