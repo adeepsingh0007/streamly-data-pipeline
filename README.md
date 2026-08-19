@@ -18,6 +18,9 @@ The project demonstrates core data engineering concepts including data modeling,
 - **Logging:** Python logging module
 - **Testing:** pytest
 
+## Dataset
+The dataset used for this project is a subset of the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/).
+
 ## Project Structure
 
 ```text
