@@ -6,7 +6,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for Streamly,
 
 The pipeline extracts song metadata and user activity logs from JSON files, transforms the data into a relational format, and loads it into a PostgreSQL database using a star schema optimized for analytical queries.
 
-The project demonstrates core data engineering concepts including data modeling, ETL development, transaction management, configuration management, logging, and error handling.
+The project demonstrates core data engineering concepts including data modeling, ETL development, transaction management, configuration management, logging, error handling and automated testing.
 
 ## Tech Stack
 
